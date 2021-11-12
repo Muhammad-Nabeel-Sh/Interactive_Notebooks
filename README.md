@@ -17,10 +17,11 @@
 ### Built with
 
 - Jupyter Notebook
-- Google Colab
+- Google Colaboratory
 - mpmath module
 - Sympy
 - Latex
+- Manim
 
 ### What I learned
 
@@ -28,6 +29,7 @@ Throughout this challenge, I reinforced some skills :
 
 * Expressing compound logical statements 
 * Variable Scope
+* Printing unicode characters
 
 ## Author
 
