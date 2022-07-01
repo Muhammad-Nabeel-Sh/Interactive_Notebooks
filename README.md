@@ -30,6 +30,9 @@ Throughout this challenge, I reinforced some skills :
 * Expressing compound logical statements 
 * Variable Scope
 * Printing unicode characters
+* Creating arrays from user input
+* List Comprehensions
+* Lamdify for numerical computations 
 
 ## Author
 
