@@ -19,9 +19,10 @@
 - Jupyter Notebook
 - Google Colaboratory
 - mpmath module
-- Sympy
+- Sympy, Numpy, Pandas
 - Latex
 - Manim
+- Geogebra Applets
 
 ### What I learned
 
